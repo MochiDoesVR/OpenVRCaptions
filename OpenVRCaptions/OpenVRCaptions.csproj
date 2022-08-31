@@ -27,6 +27,7 @@
       <None Update="win64\openvr_api.dll">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       </None>
+      <None Remove="obj\**" />
     </ItemGroup>
 
     <ItemGroup>
@@ -34,6 +35,18 @@
         <Generator>MSBuild:Compile</Generator>
         <XamlRuntime>Wpf</XamlRuntime>
       </ApplicationDefinition>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="obj\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="obj\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Page Remove="obj\**" />
     </ItemGroup>
 
 </Project>
