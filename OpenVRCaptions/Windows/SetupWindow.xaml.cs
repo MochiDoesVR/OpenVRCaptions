@@ -43,6 +43,7 @@ namespace OpenVRCaptions.Windows
             
             ButtonInstall.Click += (o, e) =>
             {
+                InstallStateText.Visibility = Visibility.Visible;
                 InstallProgressText.Visibility = Visibility.Visible;
                 InstallProgressBar.Visibility = Visibility.Visible;
                 ButtonQuit.Visibility = Visibility.Hidden;
