@@ -31,11 +31,7 @@
         "frameworks": {
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
-            "projectReferences": {
-              "C:\\Users\\Mochi\\RiderProjects\\OpenVRCaptions\\WpfSharpDxControl\\WpfSharpDxControl.csproj": {
-                "projectPath": "C:\\Users\\Mochi\\RiderProjects\\OpenVRCaptions\\WpfSharpDxControl\\WpfSharpDxControl.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -106,21 +102,6 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
-      }
-    },
-    "C:\\Users\\Mochi\\RiderProjects\\OpenVRCaptions\\WpfSharpDxControl\\WpfSharpDxControl.csproj": {
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Mochi\\RiderProjects\\OpenVRCaptions\\WpfSharpDxControl\\WpfSharpDxControl.csproj",
-        "projectName": "WpfSharpDxControl",
-        "projectPath": "C:\\Users\\Mochi\\RiderProjects\\OpenVRCaptions\\WpfSharpDxControl\\WpfSharpDxControl.csproj",
-        "frameworks": {
-          "net472": {
-            "projectReferences": {}
-          }
-        }
-      },
-      "frameworks": {
-        "net472": {}
       }
     }
   }

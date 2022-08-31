@@ -1452,15 +1452,6 @@
         "build": {
           "build/Vosk.targets": {}
         }
-      },
-      "WpfSharpDxControl/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/WpfSharpDxControl.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/WpfSharpDxControl.dll": {}
-        }
       }
     }
   },
@@ -5205,11 +5196,6 @@
         "vosk.0.3.38.nupkg.sha512",
         "vosk.nuspec"
       ]
-    },
-    "WpfSharpDxControl/1.0.0": {
-      "type": "project",
-      "path": "../WpfSharpDxControl/WpfSharpDxControl.csproj",
-      "msbuildProject": "../WpfSharpDxControl/WpfSharpDxControl.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5222,8 +5208,7 @@
       "SharpDX.Direct2D1 >= 4.2.0",
       "SharpDX.Direct3D11 >= 4.2.0",
       "SharpDX.Mathematics >= 4.2.0",
-      "Vosk >= 0.3.38",
-      "WpfSharpDxControl >= 1.0.0"
+      "Vosk >= 0.3.38"
     ]
   },
   "packageFolders": {
@@ -5257,11 +5242,7 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {
-            "C:\\Users\\Mochi\\RiderProjects\\OpenVRCaptions\\WpfSharpDxControl\\WpfSharpDxControl.csproj": {
-              "projectPath": "C:\\Users\\Mochi\\RiderProjects\\OpenVRCaptions\\WpfSharpDxControl\\WpfSharpDxControl.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

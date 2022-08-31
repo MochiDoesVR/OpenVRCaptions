@@ -16,8 +16,7 @@
           "SharpDX.Direct2D1": "4.2.0",
           "SharpDX.Direct3D11": "4.2.0",
           "SharpDX.Mathematics": "4.2.0",
-          "Vosk": "0.3.38",
-          "WpfSharpDxControl": "1.0.0"
+          "Vosk": "0.3.38"
         },
         "runtime": {
           "OpenVRCaptions.dll": {}
@@ -878,11 +877,6 @@
             "fileVersion": "0.0.0.0"
           }
         }
-      },
-      "WpfSharpDxControl/1.0.0": {
-        "runtime": {
-          "WpfSharpDxControl.dll": {}
-        }
       }
     }
   },
@@ -1535,11 +1529,6 @@
       "sha512": "sha512-W/me6nwF7fq9uWVmqbmWvPx3DjhMSzb9D85IZa0FUg2PIxcWjfG55vYHBc+9xCuNL/zohIBRYTKiP4itnMU3ww==",
       "path": "vosk/0.3.38",
       "hashPath": "vosk.0.3.38.nupkg.sha512"
-    },
-    "WpfSharpDxControl/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }

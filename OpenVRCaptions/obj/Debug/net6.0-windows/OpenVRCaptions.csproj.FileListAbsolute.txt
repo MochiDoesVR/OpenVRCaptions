@@ -21,8 +21,6 @@ C:\Users\Mochi\RiderProjects\OpenVRCaptions\OpenVRCaptions\bin\Debug\net6.0-wind
 C:\Users\Mochi\RiderProjects\OpenVRCaptions\OpenVRCaptions\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
 C:\Users\Mochi\RiderProjects\OpenVRCaptions\OpenVRCaptions\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
 C:\Users\Mochi\RiderProjects\OpenVRCaptions\OpenVRCaptions\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
-C:\Users\Mochi\RiderProjects\OpenVRCaptions\OpenVRCaptions\bin\Debug\net6.0-windows\WpfSharpDxControl.dll
-C:\Users\Mochi\RiderProjects\OpenVRCaptions\OpenVRCaptions\bin\Debug\net6.0-windows\WpfSharpDxControl.pdb
 C:\Users\Mochi\RiderProjects\OpenVRCaptions\OpenVRCaptions\obj\Debug\net6.0-windows\OpenVRCaptions.csproj.CopyComplete
 C:\Users\Mochi\RiderProjects\OpenVRCaptions\OpenVRCaptions\bin\Debug\net6.0-windows\win64\openvr_api.dll
 C:\Users\Mochi\RiderProjects\OpenVRCaptions\OpenVRCaptions\bin\Debug\net6.0-windows\libgcc_s_seh-1.dll

@@ -24,10 +24,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\WpfSharpDxControl\WpfSharpDxControl.csproj" />
-    </ItemGroup>
-
-    <ItemGroup>
       <None Update="win64\openvr_api.dll">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       </None>
